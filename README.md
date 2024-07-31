@@ -3,6 +3,10 @@
 ## Overview
 This is a classic Chess game developed in C++ using the **Simple and Fast Multimedia Library (SFML)**. It allows two players to play a standard game of chess on the same computer. The game features a simple and intuitive graphical user interface, making it easy to play and enjoy the game.
 
+## Looks
+![Screenshot 2024-07-31 222133](https://github.com/user-attachments/assets/7642b34d-19ad-4f6a-a743-f5baa96b6c3e)
+
+
 ## Features
 - **Graphical User Interface (GUI)**: The game board and pieces are rendered using SFML, providing a clear and visually appealing interface.
 - **Two-Player Mode**: Play against a friend in a local two-player mode.
