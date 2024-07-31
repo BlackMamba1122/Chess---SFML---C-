@@ -4,16 +4,23 @@
 This is a classic Chess game developed in C++ using the **Simple and Fast Multimedia Library (SFML)**. It allows two players to play a standard game of chess on the same computer. The game features a simple and intuitive graphical user interface, making it easy to play and enjoy the game.
 
 ## Looks
-### Menu
-![Screenshot 2024-07-31 222133](https://github.com/user-attachments/assets/7642b34d-19ad-4f6a-a743-f5baa96b6c3e)
-### Startup
-![Screenshot 2024-07-31 222156](https://github.com/user-attachments/assets/da184499-d401-4a66-911f-f11eaabcf279)
-### Highlight Moves
-![Screenshot 2024-07-31 222302](https://github.com/user-attachments/assets/e53824c1-4821-4b08-bfce-0ed884a5190b)
-### Check
-![Screenshot 2024-07-31 222243](https://github.com/user-attachments/assets/ce8349ea-f2bb-4a1f-a7b7-e6a19123dfa7)
+
+### Menu and Startup
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7642b34d-19ad-4f6a-a743-f5baa96b6c3e" alt="Menu" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/da184499-d401-4a66-911f-f11eaabcf279" alt="Startup" width="45%"/>
+</p>
+
+### Highlight Moves and Check
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e53824c1-4821-4b08-bfce-0ed884a5190b" alt="Highlight Moves" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/ce8349ea-f2bb-4a1f-a7b7-e6a19123dfa7" alt="Check" width="45%"/>
+</p>
+
 ### CheckMate
-![Screenshot 2024-07-31 222444](https://github.com/user-attachments/assets/7859137c-dde5-472c-af28-696decca7bf2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7859137c-dde5-472c-af28-696decca7bf2" alt="CheckMate" width="45%"/>
+</p>
 
 ## Features
 - **Graphical User Interface (GUI)**: The game board and pieces are rendered using SFML, providing a clear and visually appealing interface.
