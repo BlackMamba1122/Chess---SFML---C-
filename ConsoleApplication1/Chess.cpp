@@ -332,7 +332,7 @@ void Chess::play()
 		{
 			highlight(H, select);
 			legality(H, select, kr, kc);
-			if (Ischeck && b->getpiece(select)->getSym() == 'k')
+			if (!Ischeck && b->getpiece(select)->getSym() == 'k')
 				castling(H, select);
 			if (!moveAvaliable(H))
 			{
